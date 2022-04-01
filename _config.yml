@@ -1,1 +1,8 @@
 theme: jekyll-theme-slate
+title: MrFlyHouse Learing Records
+author: Mr.FlyHouse
+email: ftfe_QT@outlook.com
+description: > # Learning records by Mr.FlyHouse
+# social links
+github_username: MrFlyHouse
+show_excerpts: true # set to false to remove excerpts on the homepage
